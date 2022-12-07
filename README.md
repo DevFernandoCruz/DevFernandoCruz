@@ -4,11 +4,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hello,My+name+is+Fernando+Cruz;I+am+from+sao+paulo;Information+Technology+Management+Course;At+Faculdade+Cruzeiro+do+Sul;I'm+studying+Full+Stack+Development;At+STACKX+School;Full+Stack+course+in+JAVA;At+Jdev+Training+and+at+the+BREENX+School;And+I+complement+my+knowledge+with+some+courses;from+Alura+:%29)](https://git.io/typing-svg)
 
+<br></br>
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DevFernandoCruz&show_icons=true&count_private=true&hide_border=true&title_color=0082FF&icon_color=0082FF&text_color=c9d1d9&bg_color=0d1117" alt="Fernando Cruz github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFernandoCruz&layout=compact&hide_border=true&title_color=0082FF&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
+<br></br>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DevFernandoCruz&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
