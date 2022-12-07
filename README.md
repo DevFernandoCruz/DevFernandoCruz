@@ -53,7 +53,8 @@
 <a href="https://www.linkedin.com/in/carolbarbosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
-
+ <br></br>
+ 
 <div align="center">
 <br><p align="centre"><b>Contador de Visitas / Visitors Count</b></p>
 
