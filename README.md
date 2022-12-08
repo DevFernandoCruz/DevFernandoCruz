@@ -19,6 +19,9 @@ ________________________________
   <img src="https://github-profile-trophy.vercel.app/?username=DevFernandoCruz&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 _______________________________________________________________________________________________________________________________________________________
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF91A4&size=35&center=true&vCenter=true&width=1000&lines=Tecnologias+/+Technologies+)](https://git.io/typing-svg)  
+
 <br></br>
 
 ### Principais Habilidades / Main skills:
@@ -41,24 +44,22 @@ ________________________________________________________________________________
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-
 <div align="center"> 
-  
-<br><p align="centre"><b>Meus Contatos</b></p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF91A4&size=35&center=true&vCenter=true&width=1000&lines=Meus+Contatos+/+My+contacts+)](https://git.io/typing-svg)  
+
+<div>
 <a href="https://www.youtube.com/@devaoquadrado" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href = "mailto:fernandosdacruz@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/fernandosdacruz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-<a href="https://www.devaoquadrado.com.br" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a> 
+<a href="https://www.devaoquadrado.com.br" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 <a href="https://api.whatsapp.com/send?phone=5511994035091&text=Seja%20bem%20vindo" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
+</div>
+</div>
 
- </div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF91A4&size=35&center=true&vCenter=true&width=1000&lines=Contador+de+Visitas+/+Visitors+Count+)](https://git.io/typing-svg) 
 
- <br></br>
- 
-<div align="center">
-<br><p align="centre"><b>Contador de Visitas / Visitors Count</b></p>
-
+<div align="center"> 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{DevFernandoCruz}/count.svg" /></p> 
 <br>
 </div>
