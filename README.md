@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:61B6C7,100:2C0FBB&height=160&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0082FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+Chamo+Fernando+Cruz;Sou+de+São+Paulo;Curso+Gestão+de+Técnologia+da+Informação;Na+Faculdade+Cruzeiro+do+Sul;Estou+cursando+Desenvolvimento+Full+Stack;Na+Escola+STACKX;Curso+tambem+Full+Stack+em+JAVA;Na+Jdev+Treinamentos+e+na+Escola+BREENX;E+complemento+meu+conhecimeto+com+alguns+cursos;Da+Alura+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0082FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+Chamo+Fernando+Cruz;Sou+de+São+Paulo;Curso+Gestão+de+Técnologia+da+Informação;Na+Faculdade+Cruzeiro+do+Sul;Estou+cursando+Desenvolvimento+Full+Stack;Na+Escola+STACKX;Curso+tambem+Full+Stack+em+JAVA;Na+Jdev+Treinamentos+e+na+Escola+BREENX;E+complemento+meu+conhecimeto+com+alguns+cursos+da+Alura+)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Fernando+Cruz;I+am+from+São+Paulo;Information+Technology+Management+Course;At+university+Cruzeiro+do+Sul;I'm+studying+Full+Stack+Development;At+STACKX+School;Full+Stack+course+in+JAVA;At+Jdev+Training+and+at+the+BREENX+School;And+I+complement+my+knowledge+with+some+courses;from+Alura+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Fernando+Cruz;I+am+from+São+Paulo;Information+Technology+Management+Course;At+university+Cruzeiro+do+Sul;I'm+studying+Full+Stack+Development;At+STACKX+School;Full+Stack+course+in+JAVA;At+Jdev+Training+and+at+the+BREENX+School;And+I+complement+my+knowledge+with+some+courses+from+Alura+)](https://git.io/typing-svg)
 ________________________________
 <br></br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7EFE00&size=35&center=true&vCenter=true&width=1000&lines=Estatísca+/+Statistic+)](https://git.io/typing-svg)
