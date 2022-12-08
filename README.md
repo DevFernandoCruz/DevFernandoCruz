@@ -8,10 +8,11 @@ ________________________________
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7EFE00&size=35&center=true&vCenter=true&width=1000&lines=Estatísca+/+Statistic+)](https://git.io/typing-svg)
 
 <div align="center">  
-
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=DevFernandoCruz&show_icons=true&theme=chartreuse-dark" /> 
   <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=DevFernandoCruz&theme=chartreuse-dark" />
 </div>
+
+<br></br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF91A4&size=35&center=true&vCenter=true&width=1000&lines=Histórico+/+Historic+)](https://git.io/typing-svg)
 
@@ -20,9 +21,9 @@ ________________________________
 </p>
 _______________________________________________________________________________________________________________________________________________________
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF91A4&size=35&center=true&vCenter=true&width=1000&lines=Tecnologias+/+Technologies+)](https://git.io/typing-svg)  
-
 <br></br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0082FF&size=35&center=true&vCenter=true&width=1000&lines=Tecnologias+/+Technologies+)](https://git.io/typing-svg)  
 
 ### Principais Habilidades / Main skills:
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
@@ -46,7 +47,9 @@ ________________________________________________________________________________
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 <div align="center"> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF91A4&size=35&center=true&vCenter=true&width=1000&lines=Meus+Contatos+/+My+contacts+)](https://git.io/typing-svg)  
+<br></br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0082FF&size=35&center=true&vCenter=true&width=1000&lines=Meus+Contatos+/+My+contacts+)](https://git.io/typing-svg)  
 
 <div>
 <a href="https://www.youtube.com/@devaoquadrado" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -57,7 +60,9 @@ ________________________________________________________________________________
 </div>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF91A4&size=35&center=true&vCenter=true&width=1000&lines=Contador+de+Visitas+/+Visitors+Count+)](https://git.io/typing-svg) 
+<br></br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0082FF&size=35&center=true&vCenter=true&width=1000&lines=Contador+de+Visitas+/+Visitors+Count+)](https://git.io/typing-svg) 
 
 <div align="center"> 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{DevFernandoCruz}/count.svg" /></p> 
